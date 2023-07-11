@@ -36,3 +36,55 @@
 
     
 }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/**
+*! Style rules for label
+**/
+
+.label{
+    font-size: var(--label);
+    letter-spacing: var(--ls);
+    color: var(--color-green-100);
+
+}
+
+/**
+*! Style rules for text color.
+**/
+
+.text-black{
+    color: var(--color-dark-100);
+}
+.text-white{
+    color: var(--color-white-100);
+}
+.text-green{
+    color: var(--color-green-100);
+}
+
+/* ! style rules for hero */
+
+.hero{
+    background-color: var(--color-green-100);
+}
+
+
+/* ! Style rules for navbar */
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navabr__logo{
+    display: flex;
+    align-items: center;
+}

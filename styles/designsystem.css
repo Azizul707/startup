@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Work+Sans:wght@200;300;400;600;700;800&display=swap');
+
+
+:root{
+    --h1: 40px;
+    --h2: 32px;
+    --h3: 28px;
+    --h4: 24px;
+    --h5: 20px;
+    --h6: 16px;
+    
+    --sub: 20px;
+    --label: 16px;
+    --ls: 5px;
+
+    --body: 14px;
+
+    --color-dark-100: rgba(33, 37, 41, 1);
+    --color-dark-75: rgba(33, 37, 41, .75);
+    --color-dark-50: rgba(33, 37, 41, .5);
+    --color-dark-25: rgba(33, 37, 41, .25);
+
+    --colo-white-100: rgba(255, 255, 255, 1);
+    --colo-white-75: rgba(255, 255, 255, .75);
+    --colo-white-50: rgba(255, 255, 255, .5);
+    --colo-white-25: rgba(255, 255, 255, .25);
+
+    --color-green-100: rgba(116, 198, 157, 1);
+    --color-green-75: rgba(116, 198, 157, .75);
+    --color-green-50: rgba(116, 198, 157, .5);
+    --color-green-25: rgba(116, 198, 157, .25);
+
+
+    --fonts-1: 'Crimson Text', serif;
+    --fonts-2: 'Work Sans', sans-serif;
+
+    
+}
